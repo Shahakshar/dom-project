@@ -67,12 +67,12 @@ function displayMessage(msg) {
   lowOrHigh.innerHTML = `<h2>${msg}</h2>`;
 }
 
-function newGame() {
-  randomNumber = Math.round(Math.random() * 100 + 1);
-}
+function newGame() {}
 
 function endGame() {
   alert('game end call');
   guessSlot.innerHTML = '';
+  numGusses = 1;
   remaining.innerHTML = `${10}`;
+  randomNumber = Math.round(Math.random() * 100 + 1);
 }
