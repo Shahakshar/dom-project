@@ -1,3 +1,3 @@
 # dom-project
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/dom-project-chaiaurcode-swbuwc)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/)
